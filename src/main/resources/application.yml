@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://root:admin123@localhost:27017/backend-ifsul-db?authSource=admin
+      database: backend-ifsul-db
